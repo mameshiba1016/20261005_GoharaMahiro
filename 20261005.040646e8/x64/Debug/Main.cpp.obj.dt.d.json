@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\visual studio\\20261005_goharamahiro\\main.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\visual studio\\20261005_goharamahiro\\battle.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
