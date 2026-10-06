@@ -1,0 +1,13 @@
+﻿  Battle.cpp
+C:\Visual Studio\20261005_GoharaMahiro\Constants.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Battle.cpp' をコンパイルしています)
+  
+  Character.cpp
+C:\Visual Studio\20261005_GoharaMahiro\Constants.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Character.cpp' をコンパイルしています)
+  
+  Enemy.cpp
+  Main.cpp
+  Player.cpp
+  コードを生成中...
+  20261005_GoharaMahiro.vcxproj -> C:\Visual Studio\20261005_GoharaMahiro\x64\Debug\20261005_GoharaMahiro.exe

@@ -3,7 +3,10 @@
     "Data": {
         "Source": "c:\\visual studio\\20261005_goharamahiro\\enemy.cpp",
         "ProvidedModule": "",
-        "Includes": [],
+        "Includes": [
+            "c:\\visual studio\\20261005_goharamahiro\\enemy.h",
+            "c:\\visual studio\\20261005_goharamahiro\\character.h"
+        ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
     }

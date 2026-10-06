@@ -2,9 +2,8 @@
 
 int main()
 {
-	Battle battle;
-	battle.run();
+    Battle battle;
+    battle.Start();
 
-	
-	return 0;
+    return 0;
 }

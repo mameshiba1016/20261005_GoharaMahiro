@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "20261005.040646e8\\x64\\Debug\\Player.obj",
+            "outputs": [
+                "20261005.040646e8\\x64\\Debug\\Player.cpp.obj.dt.module.json",
+                "20261005.040646e8\\x64\\Debug\\Player.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

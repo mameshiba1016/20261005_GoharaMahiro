@@ -4,7 +4,10 @@
         "Source": "c:\\visual studio\\20261005_goharamahiro\\main.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\visual studio\\20261005_goharamahiro\\battle.h"
+            "c:\\visual studio\\20261005_goharamahiro\\battle.h",
+            "c:\\visual studio\\20261005_goharamahiro\\player.h",
+            "c:\\visual studio\\20261005_goharamahiro\\character.h",
+            "c:\\visual studio\\20261005_goharamahiro\\enemy.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

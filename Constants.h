@@ -1,25 +1,19 @@
-#ifndef CONSTANTS_H
-#define CONSTANTS_H
+#pragma once
 
 namespace Constants
 {
     constexpr int MAX_HP = 100;
     constexpr int MIN_HP = 0;
 
-    constexpr int STAT_MIN = 1;
-    constexpr int STAT_MAX = 20;
+    constexpr int STATUS_MIN = 1;
+    constexpr int STATUS_MAX = 20;
 
-    constexpr int ROLL_MIN = 1;
-    constexpr int ROLL_MAX = 12;
+    constexpr int ACTION_VALUE_MIN = 1;
+    constexpr int ACTION_VALUE_MAX = 12;
 
-    constexpr int DAMAGE_NONE = 0;
+    constexpr int ACTION_ATTACK = 1;
+    constexpr int ACTION_HEAL = 2;
+
+    constexpr int ENEMY_ACTION_MIN = ACTION_ATTACK;
+    constexpr int ENEMY_ACTION_MAX = ACTION_HEAL;
 }
-
-// 行動は名前で扱う
-enum class Action
-{
-    Attack = 1,
-    Heal = 2
-};
-
-#endif#pragma once
